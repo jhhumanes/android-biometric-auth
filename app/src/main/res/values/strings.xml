@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Login Biométrico</string>
+    <string name="biometric_login_header">Activar Login Biométrico</string>
+    <string name="username_hint">Email</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="activate_button">Activar</string>
+    <string name="biometric_no_available">No está disponible el acceso biométrico</string>
+    <string name="secret_key_name">clave_de_encriptacion_biometrica</string>
+    <string name="prompt_info_title">Acceso Biométrico</string>
+    <string name="prompt_info_subtitle">Por favor identifíquese para acceder</string>
+    <string name="prompt_info_description">Ejemplo de aplicación con autenticación biométrica</string>
+    <string name="prompt_info_cancel">Cancelar</string>
+    <string name="logout">Salir</string>
+    <string name="home_message">Ha accedido a la zona privada de la aplicación</string>
+    <string name="invalidate_button">Invalidar token</string>
+    <string name="token_empty">No hay token</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:opacity="opaque">
+    <!-- Background color -->
+    <item android:drawable="@color/cyan" />
+
+    <!-- Image -->
+    <!--    <item>-->
+    <!--        <bitmap android:src="@drawable/fingerprint" />-->
+    <!--    </item>-->
+    <item
+        android:width="150dp"
+        android:height="150dp"
+        android:gravity="center"
+        android:drawable="@drawable/fingerprint" />
+</layer-list>
